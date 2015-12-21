@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C2D8E841C27AF2B0032D044 /* screenshoot.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C2D8E831C27AF2B0032D044 /* screenshoot.png */; };
 		8CD8E9CE1C22A7000073DB02 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CD8E9CD1C22A7000073DB02 /* main.m */; };
 		8CD8E9D11C22A7000073DB02 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CD8E9D01C22A7000073DB02 /* AppDelegate.m */; };
 		8CD8E9D41C22A7000073DB02 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CD8E9D31C22A7000073DB02 /* ViewController.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C2D8E831C27AF2B0032D044 /* screenshoot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshoot.png; sourceTree = "<group>"; };
 		8CD8E9C91C22A7000073DB02 /* ASMulti_UILable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ASMulti_UILable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CD8E9CD1C22A7000073DB02 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8CD8E9CF1C22A7000073DB02 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		8CD8E9CB1C22A7000073DB02 /* ASMulti_UILable */ = {
 			isa = PBXGroup;
 			children = (
+				8C2D8E831C27AF2B0032D044 /* screenshoot.png */,
 				8CD8E9E31C22A79D0073DB02 /* UILabel+ASDouble.h */,
 				8CD8E9E41C22A79D0073DB02 /* UILabel+ASDouble.m */,
 				8CD8E9CF1C22A7000073DB02 /* AppDelegate.h */,
@@ -144,6 +147,7 @@
 				8CD8E9DC1C22A7000073DB02 /* LaunchScreen.storyboard in Resources */,
 				8CD8E9D91C22A7000073DB02 /* Assets.xcassets in Resources */,
 				8CD8E9D71C22A7000073DB02 /* Main.storyboard in Resources */,
+				8C2D8E841C27AF2B0032D044 /* screenshoot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +310,7 @@
 				8CD8E9E21C22A7000073DB02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
